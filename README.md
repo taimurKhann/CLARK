@@ -21,10 +21,10 @@ sh script.sh
 6) The page shows empty charts since we haven't feed SOURCE_FILES folder with events file
 
 7) I have already created multiple events file. copy each event file into SOURCE_FILES folder using below command.
-root@ubuntu:/home/CLARK# cp events1.json ./SOURCE_FILES/
-root@ubuntu:/home/CLARK# cp events2.json ./SOURCE_FILES/
-root@ubuntu:/home/CLARK# cp events3.json ./SOURCE_FILES/
-root@ubuntu:/home/CLARK# cp events4.json ./SOURCE_FILES/
+cp events1.json ./SOURCE_FILES/
+cp events2.json ./SOURCE_FILES/
+cp events3.json ./SOURCE_FILES/
+cp events4.json ./SOURCE_FILES/
 
 8) Charts on browser will get update on real time as soon as files has been starting placed in SOURCE_FILES
 
